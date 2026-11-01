@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MiniShopManager</string>
+
+    <string-array name="products">
+        <item>Téléphone</item>
+        <item>Casque Bluetooth</item>
+        <item>Montre connectée</item>
+        <item>Chargeur USB</item>
+    </string-array>
+    <string-array name="phones">
+        <item>iPhone 15</item>
+        <item>Samsung Galaxy S24</item>
+        <item>Xiaomi Redmi Note 13</item>
+        <item>Google Pixel 8</item>
+    </string-array>
+</resources>
